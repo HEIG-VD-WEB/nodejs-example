@@ -7,7 +7,7 @@
 	"runArgs": ["-p=3000:3000"],
 	"remoteUser": "node",
 	"features": {
-		"ghcr.io/devcontainers/features/docker-in-docker:2": {}
+		"ghcr.io/devcontainers/features/docker-in-docker:2": {},
 	},
   // Map the user's SSH directory to the container for SSH signing
   "mounts": [
